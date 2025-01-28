@@ -1,5 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8D1FF7&background=FF1EFD00&width=435&lines=Cybersecurity+specialist)](https://git.io/typing-svg)
-
+</div>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="gif">
