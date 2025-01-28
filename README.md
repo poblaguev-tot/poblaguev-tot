@@ -20,5 +20,5 @@
 </a>
 <p></p>
 <a href="https://www.linkedin.com/in/poblaguev-tot/">
- <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/83d369e0ec4156eef0b33faeed69346d.png" alt="Tryhackme Badge" width="100" height="35"/>
+ <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/83d369e0ec4156eef0b33faeed69346d.png" alt="Tryhackme Badge" width="95" height="35"/>
 </a>
