@@ -3,8 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=8D1FF7&background=FF1EFD00&multiline=true&width=435&lines=%F0%9D%95%80'%F0%9D%95%9E+%F0%9D%94%B8%F0%9D%95%A3%F0%9D%95%A4%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%9A%F0%9D%95%AA+%E2%84%99%F0%9D%95%A0%F0%9D%95%93%F0%9D%95%9D%F0%9D%95%92%F0%9D%95%98%F0%9D%95%A6%F0%9D%95%96%F0%9D%95%A7" alt="Typing SVG" /></a>
 
  
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" alt="gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" alt="gif" width="600">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=000000&width=300&lines=About+me%3A)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=F7F7F7&width=300&lines=About+me%3A)](https://git.io/typing-svg#gh-dark-mode-only)
 <div>
     <div align="left">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?        font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=%F0%9D%95%8E%E2%84%8D%F0%9D%95%86%F0%9D%94%B8%F0%9D%95%84%F0%9D%95%80" alt="Typing SVG" /></a>
