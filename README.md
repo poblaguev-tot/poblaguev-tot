@@ -5,7 +5,7 @@
  
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" alt="gif" width="600">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=%F0%9D%95%8E%E2%84%8D%F0%9D%95%86%F0%9D%94%B8%F0%9D%95%84%F0%9D%95%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&width=300&lines=%F0%9D%95%8E%E2%84%8D%F0%9D%95%86%F0%9D%94%B8%F0%9D%95%84%F0%9D%95%80)](https://git.io/typing-svg#gh-dark-mode-only)
 
 
 
