@@ -8,18 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&duration=1&pause=3000&color=8D1FF7&width=300&lines=WHOAMI%3A)](https://git.io/typing-svg#gh-dark-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=300&lines=-+Penetration+Tester)](https://git.io/typing-svg#gh-dark-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=300&lines=-+DFIR+specialist)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=300&lines=-+Python+enjoyer)](https://git.io/typing-svg#gh-dark-mode-only)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?        font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=%F0%9D%95%8E%E2%84%8D%F0%9D%95%86%F0%9D%94%B8%F0%9D%95%84%F0%9D%95%80" alt="Typing SVG" /></a>
-    <div align="left">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=-+%E2%84%99%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A4%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A3" alt="Typing SVG" /></a>
-    </div>
-    <div align="left">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=-+%F0%9D%94%BB%F0%9D%94%BD%F0%9D%95%80%E2%84%9D+%F0%9D%95%A4%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%94%F0%9D%95%9A%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A4%F0%9D%95%A5" alt="Typing SVG" /></a>
-    </div>
-    <div align="left">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=-+%E2%84%99%F0%9D%95%AA%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%A0%F0%9D%95%9F+%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%9B%F0%9D%95%A0%F0%9D%95%AA%F0%9D%95%96%F0%9D%95%A3" alt="Typing SVG" /></a>
-    </div>
-</div>
 <p>ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕣𝕤𝕖𝕟𝕚𝕪 👋</p>
 <p>ℂ𝕪𝕓𝕖𝕣𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥, ℙ𝕖𝕟𝕥𝕖𝕤𝕥𝕖𝕣, 𝔻𝔽𝕀ℝ 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥</p
 <!--
