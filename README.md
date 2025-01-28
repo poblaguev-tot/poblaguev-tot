@@ -4,11 +4,11 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <p>ＷＨＯＡＭＩ</p>
+        ＷＨＯＡＭＩ
     </div>
-    <div>
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" width="200" height="100">
-    </div>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="gif">
+</div>
 </div>
 
 <p>ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕣𝕤𝕖𝕟𝕚𝕪 👋</p>
