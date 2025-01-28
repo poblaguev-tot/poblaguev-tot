@@ -2,14 +2,14 @@
 <p></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=8D1FF7&background=FF1EFD00&multiline=true&width=435&lines=%F0%9D%95%80'%F0%9D%95%9E+%F0%9D%94%B8%F0%9D%95%A3%F0%9D%95%A4%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%9A%F0%9D%95%AA+%E2%84%99%F0%9D%95%A0%F0%9D%95%93%F0%9D%95%9D%F0%9D%95%92%F0%9D%95%98%F0%9D%95%A6%F0%9D%95%96%F0%9D%95%A7" alt="Typing SVG" /></a>
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        ＷＨＯＡＭＩ
-    </div>
-<div align="center">
+
+<div align="left">
+    ＷＨＯＡＭＩ
+</div>
+<div align="right">
     <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="gif">
 </div>
-</div>
+
 
 <p>ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕣𝕤𝕖𝕟𝕚𝕪 👋</p>
 <p>ℂ𝕪𝕓𝕖𝕣𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥, ℙ𝕖𝕟𝕥𝕖𝕤𝕥𝕖𝕣, 𝔻𝔽𝕀ℝ 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥</p
