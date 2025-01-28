@@ -22,3 +22,6 @@
 <a href="https://tryhackme.com/r/p/Papa8">
  <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/83d369e0ec4156eef0b33faeed69346d.png" alt="Tryhackme Badge" width="92" height="32"/>
 </a>
+<a href="https://www.linkedin.com/in/poblaguev-tot/">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Hack_The_Box_Logo_1.png" alt="Hackthebox Badge"/>
+</a>
