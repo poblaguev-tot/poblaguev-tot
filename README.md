@@ -4,10 +4,6 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8D1FF7&background=FF1EFD00&width=435&lines=Cybersecurity+specialist" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif">
 </div>
 
