@@ -6,6 +6,15 @@
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif">
 </div>
 
+<div align="left">
+    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="gif">
+</div>
+
+<div align="right">
+    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="gif">
+</div>
+
+
 <p>ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕣𝕤𝕖𝕟𝕚𝕪 👋</p>
 <p>ℂ𝕪𝕓𝕖𝕣𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥, ℙ𝕖𝕟𝕥𝕖𝕤𝕥𝕖𝕣, 𝔻𝔽𝕀ℝ 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥</p
 <!--
