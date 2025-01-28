@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8D1FF7&background=FF1EFD00&width=435&lines=Cybersecurity+specialist)](https://git.io/typing-svg)
-
+![GIF](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 ## Hi there 👋
 ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕣𝕤𝕖𝕟𝕚𝕪
 ℂ𝕪𝕓𝕖𝕣𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥, ℙ𝕖𝕟𝕥𝕖𝕤𝕥𝕖𝕣, 𝔻𝔽𝕀ℝ 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥
