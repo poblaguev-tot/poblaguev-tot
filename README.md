@@ -7,6 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&duration=1&pause=3000&color=8D1FF7&width=300&lines=WHOAMI%3A)](https://git.io/typing-svg#gh-dark-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=300&lines=-+Penetration+Tester)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=300&lines=-+DFIR+specialist)](https://git.io/typing-svg#gh-dark-mode-only)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?        font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=%F0%9D%95%8E%E2%84%8D%F0%9D%95%86%F0%9D%94%B8%F0%9D%95%84%F0%9D%95%80" alt="Typing SVG" /></a>
     <div align="left">
