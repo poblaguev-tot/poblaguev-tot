@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D1FF7&width=435&lines=Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8D1FF7&background=FF1EFD00&width=435&lines=Cybersecurity+specialist)](https://git.io/typing-svg)
 
 ## Hi there 👋
 ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕣𝕤𝕖𝕟𝕚𝕪
