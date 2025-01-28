@@ -6,13 +6,13 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=%F0%9D%95%8E%E2%84%8D%F0%9D%95%86%F0%9D%94%B8%F0%9D%95%84%F0%9D%95%80" alt="Typing SVG" /></a>
 </div>
 <div align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=-+%E2%84%99%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A4%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A3%2C+%F0%9D%94%BB%F0%9D%94%BD%F0%9D%95%80%E2%84%9D+%F0%9D%95%A4%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%94%F0%9D%95%9A%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A4%F0%9D%95%A5" alt="Typing SVG" /></a>
-</div>
-<div align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=-+%E2%84%99%F0%9D%95%AA%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%A0%F0%9D%95%9F+%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%9B%F0%9D%95%A0%F0%9D%95%AA%F0%9D%95%96%F0%9D%95%A3" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=-+%E2%84%99%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A4%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A3" alt="Typing SVG" /></a>
 </div>
 <div align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=-+%F0%9D%94%BB%F0%9D%94%BD%F0%9D%95%80%E2%84%9D+%F0%9D%95%A4%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%94%F0%9D%95%9A%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A4%F0%9D%95%A5" alt="Typing SVG" /></a>
+</div>
+<div align="left">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=435&lines=-+%E2%84%99%F0%9D%95%AA%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%A0%F0%9D%95%9F+%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%9B%F0%9D%95%A0%F0%9D%95%AA%F0%9D%95%96%F0%9D%95%A3" alt="Typing SVG" /></a>
 </div>
 <div align="right">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" width="600" height="300">
