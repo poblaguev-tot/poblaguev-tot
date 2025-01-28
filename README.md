@@ -13,10 +13,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=8D1FF7&background=FF1EFD00&multiline=true&repeat=false&width=300&lines=-+Python+enjoyer)](https://git.io/typing-svg#gh-dark-mode-only)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=000000&width=300&lines=Connect+with+me%3A)](https://git.io/typing-svg#gh-light-mode-only)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Motseratt&weight=800&size=22&duration=3000&pause=3000&color=F7F7F7&width=300&lines=Connect+with+me%3A)](https://git.io/typing-svg#gh-dark-mode-only)  
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/alexey-burak#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alexey-burak#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/poblaguev-tot/k#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/poblaguev-tot/#gh-dark-mode-only)
 
 
 <a href="https://www.linkedin.com/in/poblaguev-tot/">
